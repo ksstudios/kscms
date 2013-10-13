@@ -1,4 +1,4 @@
-kscms
+King Site CMS
 =====
 
 King Site CMS - open source fully flexible CMS for web-developers
