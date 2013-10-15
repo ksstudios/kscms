@@ -8,5 +8,6 @@ Project blog is: http://kingsitecms.blogspot.com/
 I am russian, so this blog is in russian language too:)
 
 Development in progress...
-Current state is:
-Each page design.
+===
+Current state is: 
+admin panel (backend) design
